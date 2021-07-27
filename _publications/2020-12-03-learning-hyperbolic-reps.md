@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-12-03-learning-hyperbolic-reps
 excerpt: 'We exploit the natural hierarchical organization of 3D biological data by using it as self-supervision to learn hyperbolic representations via a hyperbolic VAE.'
 date: 2020-12-03
-venue: 'NeurIPS Differential Geometry Workshop 2020 (Top 5 paper)'
+venue: 'NeurIPS Differential Geometry Workshop (Top 5 paper)'
 paperurl: 'https://arxiv.org/pdf/2012.01644.pdf'
 citation: 'Gu, Jeffrey and Hsu, Joy and Wu, Gong-her and Chiu, Wah and Yeung, Serena. (2020). &quot;Learning Hyperbolic Representations for Unsupervised 3D Segmentation.&quot; <i>arXiv</i>. arXiv:2012.01644.'
 ---
