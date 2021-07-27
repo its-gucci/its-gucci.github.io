@@ -15,5 +15,5 @@ Publications
 - **Staying in Shape: Learning Invariant Shape Representations using Contrastive Learning** (UAI 2021) [[Paper](https://arxiv.org/pdf/2107.03552.pdf)]
   _Jeffrey Gu, Serena Yeung_
 
-- **Learning Hyperbolic Representations for Unsupervised 3D Segmentation** [[Paper](https://arxiv.org/pdf/2012.01644.pdf)]   
+- **Learning Hyperbolic Representations for Unsupervised 3D Segmentation** (NeurIPS Differential Geometry meets Deep Learning (DiffGeo4DL) Workshop 2020) [[Paper](https://arxiv.org/pdf/2012.01644.pdf)]   
   _Jeffrey Gu*, Joy Hsu*, Gong-Her Wu, Wah Chiu, Serena Yeung_
