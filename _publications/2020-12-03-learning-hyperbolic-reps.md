@@ -6,7 +6,7 @@ excerpt: 'Creating manual annotations for segementation, especially for high-res
 date: 2020-12-03
 venue: 'NeurIPS Differential Geometry Workshop (Top 5 paper)'
 paperurl: 'https://arxiv.org/pdf/2012.01644.pdf'
-citation: 'Gu, Jeffrey and Hsu, Joy and Wu, Gong-her and Chiu, Wah and Yeung, Serena. (2020). &quot;Learning Hyperbolic Representations for Unsupervised 3D Segmentation.&quot; <i>arXiv</i>. arXiv:2012.01644.'
+citation: 'Gu, Jeffrey* and Hsu, Joy* and Wu, Gong-her and Chiu, Wah and Yeung, Serena. (2020). &quot;Learning Hyperbolic Representations for Unsupervised 3D Segmentation.&quot; <i>arXiv</i>. arXiv:2012.01644.'
 ---
 ![image](/files/hyp_pull_fig.png)
 
@@ -14,4 +14,4 @@ Abstract: There exists a need for unsupervised 3D segmentation on complex volume
 
 [Download paper here](https://arxiv.org/pdf/2012.01644.pdf)
 
-Recommended citation: Gu, Jeffrey and Hsu, Joy and Wu, Gong-her and Chiu, Wah and Yeung, Serena. (2020). "Learning Hyperbolic Representations for Unsupervised 3D Segmentation." <i>arXiv</i>. arXiv:2012.01644.
+Recommended citation: Gu, Jeffrey* and Hsu, Joy* and Wu, Gong-her and Chiu, Wah and Yeung, Serena. (2020). "Learning Hyperbolic Representations for Unsupervised 3D Segmentation." <i>arXiv</i>. arXiv:2012.01644.
