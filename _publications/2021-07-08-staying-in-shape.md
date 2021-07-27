@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2021-07-08-staying-in-shape
 excerpt: 'Invariant and almost-invariant representations have long been important in shape analysis. Using contrastive learning, we develop a method to learn unsupervised invariant and almost-invariant shape representations and demonstrate both representation quality and robustness.'
 date: 2021-07-08
-venue: 'Conference on Uncertainty in Artificial Intelligence (UAI) 2021'
+venue: 'Conference on Uncertainty in Artificial Intelligence (UAI)'
 paperurl: 'https://arxiv.org/pdf/2107.03552.pdf'
 citation: 'Gu, Jeffrey and Yeung, Serena. (2021). &quot;Staying in Shape: Learning Invariant Shape Representations using Contrastive Learning.&quot; <i>UAI</i>. UAI 2021.'
 ---
