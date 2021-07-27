@@ -12,7 +12,7 @@ I am a Ph.D candidate in [ICME](https://icme.stanford.edu/) at Stanford Universi
 
 Publications
 =====
-- **Staying in Shape: Learning Invariant Shape Representations using Contrastive Learning** (UAI 2021) [[Paper](https://arxiv.org/pdf/2107.03552.pdf)] [[Code](https://github.com/its-gucci/staying-in-shape)] [Under construction]
+- **Staying in Shape: Learning Invariant Shape Representations using Contrastive Learning** (UAI 2021) [[Paper](https://arxiv.org/pdf/2107.03552.pdf)][[Code](https://github.com/its-gucci/staying-in-shape)][Under construction]
   _Jeffrey Gu, Serena Yeung_
 
 - **Learning Hyperbolic Representations for Unsupervised 3D Segmentation** (NeurIPS Differential Geometry meets Deep Learning (DiffGeo4DL) Workshop 2020) [[Paper](https://arxiv.org/pdf/2012.01644.pdf)]   
