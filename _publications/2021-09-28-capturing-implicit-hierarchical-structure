@@ -15,3 +15,6 @@ Abstract: We consider the task of representation learning for unsupervised segme
 [Download paper here](https://arxiv.org/pdf/2012.01644.pdf)[Camera-ready version coming soon!]
 
 Recommended citation: Gu, Jeffrey* and Hsu, Joy* and Wu, Gong-her and Chiu, Wah and Yeung, Serena. (2021). "Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations." <i>arXiv</i>. arXiv:2012.01644.
+
+A previous version of this paper was published as "Learning Hyperbolic Representations for Unsupervised 3D Segmentation".
+
