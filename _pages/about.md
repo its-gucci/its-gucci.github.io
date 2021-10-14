@@ -12,7 +12,7 @@ I am a Ph.D candidate in [ICME](https://icme.stanford.edu/) at Stanford Universi
 
 Publications
 =====
-- **Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations** (To appear NeurIPS 2021) [[Paper](Under Construction)][[Code](https://github.com/its-gucci/capturing-implicit-hierarchical-structure)]
+- **Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations** (To appear NeurIPS 2021) [[Paper]][Coming Soon!][[Code](https://github.com/its-gucci/capturing-implicit-hierarchical-structure)]
   _Jeffrey Gu*, Joy Hsu*, Gong-Her Wu, Wah Chiu, Serena Yeung_
 
 - **Staying in Shape: Learning Invariant Shape Representations using Contrastive Learning** (UAI 2021) [[Paper](https://arxiv.org/pdf/2107.03552.pdf)][[Code](https://github.com/its-gucci/staying-in-shape)]
