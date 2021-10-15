@@ -12,11 +12,11 @@ I am a Ph.D candidate in [ICME](https://icme.stanford.edu/) at Stanford Universi
 
 Publications
 =====
-- **Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations** (To appear NeurIPS 2021) [[Paper]][Coming Soon!][[Code](https://github.com/its-gucci/capturing-implicit-hierarchical-structure)]
+- **Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations** (To appear NeurIPS 2021) [[Paper](https://arxiv.org/abs/2012.01644)][Camera ready coming soon!][[Code](https://github.com/its-gucci/capturing-implicit-hierarchical-structure)]
   _Jeffrey Gu*, Joy Hsu*, Gong-Her Wu, Wah Chiu, Serena Yeung_
 
-- **Staying in Shape: Learning Invariant Shape Representations using Contrastive Learning** (UAI 2021) [[Paper](https://arxiv.org/pdf/2107.03552.pdf)][[Code](https://github.com/its-gucci/staying-in-shape)]
+- **Staying in Shape: Learning Invariant Shape Representations using Contrastive Learning** (UAI 2021) [[Paper](https://arxiv.org/abs/2107.03552)][[Code](https://github.com/its-gucci/staying-in-shape)]
   _Jeffrey Gu, Serena Yeung_
 
-- **Learning Hyperbolic Representations for Unsupervised 3D Segmentation** (NeurIPS Differential Geometry meets Deep Learning (DiffGeo4DL) Workshop 2020) [[Paper](https://arxiv.org/pdf/2012.01644.pdf)]   
-  _Jeffrey Gu*, Joy Hsu*, Gong-Her Wu, Wah Chiu, Serena Yeung_
+- **Learning Hyperbolic Representations for Unsupervised 3D Segmentation** (NeurIPS Differential Geometry meets Deep Learning (DiffGeo4DL) Workshop 2020) [[Paper](https://drive.google.com/file/d/1tFQWg72zKmLCV0EOnIH9cqqp1F3OVa72/view)]   
+  _Jeffrey Gu*, Joy Hsu*, Serena Yeung_
