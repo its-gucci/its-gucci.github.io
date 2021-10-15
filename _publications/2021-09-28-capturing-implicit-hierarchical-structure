@@ -6,7 +6,7 @@ excerpt: 'Creating manual annotations for segementation, especially for high-res
 date: 2021-09-28
 venue: 'Conference on Neural Information Processing Systems (NeurIPS 2021)'
 paperurl: 'https://arxiv.org/pdf/2012.01644.pdf'
-citation: 'Gu, Jeffrey* and Hsu, Joy* and Wu, Gong-her and Chiu, Wah and Yeung, Serena. (2020). &quot;Learning Hyperbolic Representations for Unsupervised 3D Segmentation.&quot; <i>arXiv</i>. arXiv:2012.01644.'
+citation: 'Gu, Jeffrey* and Hsu, Joy* and Wu, Gong-her and Chiu, Wah and Yeung, Serena. (2021). &quot;Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations.&quot; <i>arXiv</i>. arXiv:2012.01644.'
 ---
 ![image](/files/hyp_pull_fig.png)
 
