@@ -29,4 +29,4 @@ Publications
   _Jeffrey Gu, Serena Yeung_
 
 - **Learning Hyperbolic Representations for Unsupervised 3D Segmentation** (NeurIPS Differential Geometry meets Deep Learning (DiffGeo4DL) Workshop 2020) [[Paper](https://drive.google.com/file/d/1tFQWg72zKmLCV0EOnIH9cqqp1F3OVa72/view)]   
-  _Jeffrey Gu*, Joy Hsu*, Serena Yeung_
+  _Joy Hsu*, Jeffrey Gu*, Serena Yeung_
