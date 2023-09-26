@@ -1,9 +1,9 @@
 ---
 title: "Generalizable Neural Fields as Partially Observed Neural Processes"
 collection: publications
-permalink: /publication/2023-07-13-partially-observed-neural-processes
+permalink: /publication/2023-10-04-partially-observed-neural-processes
 excerpt: 'Neural processes outperform gradient-based meta-learning and other methods for neural field generalization.'
-date: 2023-07-13
+date: 2023-10-04
 venue: 'International Conference on Computer Vision (ICCV)'
 paperurl: 'https://arxiv.org/pdf/2309.06660.pdf'
 citation: 'Gu, Jeffrey, Kuan-Chieh Wang, and Serena Yeung. "Generalizable Neural Fields as Partially Observed Neural Processes." arXiv preprint arXiv:2309.06660 (2023).'
