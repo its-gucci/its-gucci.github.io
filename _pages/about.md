@@ -16,7 +16,7 @@ Publications
 - **Generalizable Neural Fields as Partially Observed Neural Processes** (ICCV 2023) [[Project page](https://its-gucci.github.io/ponp/)][[Paper](https://arxiv.org/pdf/2309.06660.pdf)][[Code](https://github.com/its-gucci/partially-observed-neural-processes)]
   _Jeffrey Gu, Kuan-Chieh Wang, Serena Yeung_
 
-- **Hyperbolic Deep Learning in Computer Vision: A Survey** (In submission) [[Paper](https://arxiv.org/pdf/2305.06611.pdf)][[Tutorial](https://github.com/MinaGhadimiAtigh/hyperbolic_representation_learning)]
+- **Hyperbolic Deep Learning in Computer Vision: A Survey** (In submission) [[Paper](https://arxiv.org/pdf/2305.06611.pdf)][[Tutorial](https://sites.google.com/view/hyperbolic-tutorial-eccv22)][[Sample code](https://github.com/MinaGhadimiAtigh/hyperbolic_representation_learning)]
   _Pascal Mettes, Mina Ghadimi Atigh, Martin Keller-Ressler, Jeffrey Gu, Serena Yeung_
 
 - **NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action** (CVPR 2023 Highlight) [[Project page](https://sites.google.com/view/nemo-neural-motion-field/home)][[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_NeMo_Learning_3D_Neural_Motion_Fields_From_Multiple_Video_Instances_CVPR_2023_paper.html)][[Code](https://github.com/wangkua1/nemo-cvpr2023)]
