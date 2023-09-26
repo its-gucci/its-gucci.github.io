@@ -2,7 +2,7 @@
 title: "Generalizable Neural Fields as Partially Observed Neural Processes"
 collection: publications
 permalink: /publication/2023-07-13-partially-observed-neural-processes
-excerpt: 'Neural processes outperform gradient-based meta-learning and other methods for neural field generalization'
+excerpt: 'Neural processes outperform gradient-based meta-learning and other methods for neural field generalization.'
 date: 2023-07-13
 venue: 'International Conference on Computer Vision (ICCV)'
 paperurl: 'https://arxiv.org/pdf/2309.06660.pdf'
