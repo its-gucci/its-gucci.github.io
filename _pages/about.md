@@ -23,7 +23,7 @@ Publications
   _Jeffrey Gu, Kuan-Chieh Wang, Serena Yeung_
 
 - **Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations** (NeurIPS 2021) [[Paper](https://arxiv.org/abs/2012.01644)][[Code](https://github.com/its-gucci/capturing-implicit-hierarchical-structure)]
-  _Jeffrey Gu*, Joy Hsu*, Gong-Her Wu, Wah Chiu, Serena Yeung_
+  _Joy Hsu*, Jeffrey Gu*, Gong-Her Wu, Wah Chiu, Serena Yeung_
 
 - **Staying in Shape: Learning Invariant Shape Representations using Contrastive Learning** (UAI 2021) [[Paper](https://arxiv.org/abs/2107.03552)][[Code](https://github.com/its-gucci/staying-in-shape)]
   _Jeffrey Gu, Serena Yeung_
