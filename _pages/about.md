@@ -10,8 +10,10 @@ redirect_from:
 
 I am a Ph.D candidate in [ICME](https://icme.stanford.edu/) at Stanford University where I am part of the [Medical AI and ComputeR Vision Lab (MARVL)](https://marvl.stanford.edu/index.html), where I am fortunate to be advised by Prof. [Serena Yeung](https://ai.stanford.edu/~syyeung/). Previously, I received a BS in Mathematics from Caltech. My current research interests include geometric deep learning, unsupervised learning, representation learning, and applications to biology and science. You can reach me at jeffgu[at]stanford.edu!
 
-Publications and Preprints
+News
 =====
+- **Feb 2024**: Our survey "Hyperbolic Deep Learning in Computer Vision: A Survey" is accepted to IJCV 2024! Big thanks to my coauthors and Pascal for organizing!
+- **Oct 2023**: Presented our work "Generalizable Neural Fields as Partially Observed Neural Processes" at ICCV 2023!
 - **Oct 2022**: Gave a talk as part of the Hyperbolic Representation Learning for Computer Vision tutorial at ECCV 2022! The tutorial webiste can be found [here](https://sites.google.com/view/hyperbolic-tutorial-eccv22) and videos of the talks can be found [here](https://www.youtube.com/@hyperboliclearningforcv)! 
 - **Feb 2022**: Gave a talk at the MedAI Group Exchange Sessions at Stanford! The website for MedAI can be found [here](https://stanford-medai.github.io/) and a video of the talk can be found at [this channel](https://www.youtube.com/@stanfordmedai) 
 
