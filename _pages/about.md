@@ -10,8 +10,18 @@ redirect_from:
 
 I am a Ph.D candidate in [ICME](https://icme.stanford.edu/) at Stanford University where I am part of the [Medical AI and ComputeR Vision Lab (MARVL)](https://marvl.stanford.edu/index.html), where I am fortunate to be advised by Prof. [Serena Yeung](https://ai.stanford.edu/~syyeung/). Previously, I received a BS in Mathematics from Caltech. My current research interests include geometric deep learning, unsupervised learning, representation learning, and applications to biology and science. You can reach me at jeffgu[at]stanford.edu!
 
-Publications
+Publications and Preprints
 =====
+
+- **CryoHype: Transformer-based hypernetwork for heterogeneous Cryo-EM
+reconstruction** (In submission)
+  _**Jeffrey Gu**, Minkyu Jeon, Ambri Ma, Serena Yeung, Ellen D. Zhong_
+
+- **BIOMEDICA: An Open Biomedical Image-Caption Archive with Vision-Language Models derived from Scientific Literature** (In submission)
+  _Alejandro Lozano, Min Woo Sun, James Burgess, Liangyu Chen, Jeffrey J Nirschl, **Jeffrey Gu**, Ivan Lopez, Josiah Aklilu, Austin Wolfgang Katzer, Collin Chiu, Anita Rau, Xiaohan Wang, Yuhui Zhang, Alfred Seunghoon Song, Robert Tibshirani, Serena Yeung-Levy_
+
+- **Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models** (In submission)
+  _**Jeffrey Gu**, Serena Yeung_
 
 - **Generalizable Neural Fields as Partially Observed Neural Processes** (ICCV 2023) [[Project page](https://its-gucci.github.io/ponp/)][[Paper](https://arxiv.org/pdf/2309.06660.pdf)][[Code](https://github.com/its-gucci/partially-observed-neural-processes)]
   _**Jeffrey Gu**, Kuan-Chieh Wang, Serena Yeung_
