@@ -38,5 +38,5 @@ reconstruction** (In submission)
 - **Staying in Shape: Learning Invariant Shape Representations using Contrastive Learning** (UAI 2021) [[Paper](https://arxiv.org/abs/2107.03552)][[Code](https://github.com/its-gucci/staying-in-shape)]
   _**Jeffrey Gu**, Serena Yeung_
 
-- **Learning Hyperbolic Representations for Unsupervised 3D Segmentation** (NeurIPS Differential Geometry meets Deep Learning (DiffGeo4DL) Workshop 2020) [[Paper](https://drive.google.com/file/d/1tFQWg72zKmLCV0EOnIH9cqqp1F3OVa72/view)]   
+- **Learning Hyperbolic Representations for Unsupervised 3D Segmentation** (NeurIPS Differential Geometry meets Deep Learning (DiffGeo4DL) Workshop 2020, Top paper/Contributed talk) [[Paper](https://drive.google.com/file/d/1tFQWg72zKmLCV0EOnIH9cqqp1F3OVa72/view)]   
   _Joy Hsu*, **Jeffrey Gu***, Serena Yeung_
