@@ -12,6 +12,11 @@ I am a Ph.D candidate in [ICME](https://icme.stanford.edu/) at Stanford Universi
 
 Publications and Preprints
 =====
+- **Oct 2022**: Gave a talk as part of the Hyperbolic Representation Learning for Computer Vision tutorial at ECCV 2022! The tutorial webiste can be found [here](https://sites.google.com/view/hyperbolic-tutorial-eccv22) and videos of the talks can be found [here](https://www.youtube.com/@hyperboliclearningforcv)! 
+- **Feb 2022**: Gave a talk at the MedAI Group Exchange Sessions at Stanford! The website for MedAI can be found [here](https://stanford-medai.github.io/) and a video of the talk can be found at [this channel](https://www.youtube.com/@stanfordmedai) 
+
+Publications and Preprints
+=====
 
 - **CryoHype: Transformer-based hypernetwork for heterogeneous Cryo-EM
 reconstruction** (In submission)
@@ -40,3 +45,12 @@ reconstruction** (In submission)
 
 - **Learning Hyperbolic Representations for Unsupervised 3D Segmentation** (NeurIPS Differential Geometry meets Deep Learning (DiffGeo4DL) Workshop 2020, Top paper/Contributed talk) [[Paper](https://drive.google.com/file/d/1tFQWg72zKmLCV0EOnIH9cqqp1F3OVa72/view)]   
   _Joy Hsu*, **Jeffrey Gu***, Serena Yeung_
+
+Service
+=====
+- **Reviewer**: NeurIPS 2022 Datasets & Benchmarks, CVPR 2024, NeurIPS 2024, AAAI 2025, ICLR 2025, AISTATS 2025, CVPR 2025
+
+Teaching
+=====
+- **BIODS 220/CS 271/BIOMEDIN 220: Artificial Intelligence in Healthcare**: Fall '22, Stanford University
+- **CME 241: Reinforcement Learning for Stochastic Control Problems in Finance**: Winter '19, Stanford University
