@@ -12,6 +12,7 @@ I am a Ph.D candidate in [ICME](https://icme.stanford.edu/) at Stanford Universi
 
 News
 =====
+- **Jan 2025**: Our paper "Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models" is accepted to ICLR 2025! 
 - **Feb 2024**: Our survey "Hyperbolic Deep Learning in Computer Vision: A Survey" is accepted to IJCV 2024! Big thanks to my coauthors and Pascal for organizing!
 - **Oct 2023**: Presented our work "Generalizable Neural Fields as Partially Observed Neural Processes" at ICCV 2023!
 - **Oct 2022**: Gave a talk as part of the Hyperbolic Representation Learning for Computer Vision tutorial at ECCV 2022! The tutorial webiste can be found [here](https://sites.google.com/view/hyperbolic-tutorial-eccv22) and videos of the talks can be found [here](https://www.youtube.com/@hyperboliclearningforcv)! 
@@ -27,7 +28,7 @@ reconstruction** (In submission)
 - **BIOMEDICA: An Open Biomedical Image-Caption Archive with Vision-Language Models derived from Scientific Literature** (In submission)
   _Alejandro Lozano, Min Woo Sun, James Burgess, Liangyu Chen, Jeffrey J Nirschl, **Jeffrey Gu**, Ivan Lopez, Josiah Aklilu, Austin Wolfgang Katzer, Collin Chiu, Anita Rau, Xiaohan Wang, Yuhui Zhang, Alfred Seunghoon Song, Robert Tibshirani, Serena Yeung-Levy_
 
-- **Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models** (In submission)
+- **Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models** (ICLR 2025)
   _**Jeffrey Gu**, Serena Yeung_
 
 - **Generalizable Neural Fields as Partially Observed Neural Processes** (ICCV 2023) [[Project page](https://its-gucci.github.io/ponp/)][[Paper](https://arxiv.org/pdf/2309.06660.pdf)][[Code](https://github.com/its-gucci/partially-observed-neural-processes)]
