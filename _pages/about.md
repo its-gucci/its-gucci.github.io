@@ -14,6 +14,7 @@ I am currently on job market! I am looking for both industry opportunities and p
 
 News
 =====
+- **Feb 2025**: BIOMEDICA is accepted to CVPR 2025! Congrats to first authors Ale, Min Woo, and James!
 - **Jan 2025**: Our paper "Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models" is accepted to ICLR 2025! 
 - **Feb 2024**: Our survey "Hyperbolic Deep Learning in Computer Vision: A Survey" is accepted to IJCV 2024! Big thanks to my coauthors and Pascal for organizing!
 - **Oct 2023**: Presented our work "Generalizable Neural Fields as Partially Observed Neural Processes" at ICCV 2023!
@@ -27,10 +28,10 @@ Publications and Preprints
 reconstruction** (In submission)
   _**Jeffrey Gu**, Minkyu Jeon, Ambri Ma, Serena Yeung, Ellen D. Zhong_
 
-- **BIOMEDICA: An Open Biomedical Image-Caption Archive with Vision-Language Models derived from Scientific Literature** (In submission)
+- **BIOMEDICA: An Open Biomedical Image-Caption Archive with Vision-Language Models derived from Scientific Literature** (CVPR 2025) [[Huggingface](https://huggingface.co/papers/2501.07171)][[Paper](https://arxiv.org/pdf/2501.07171)][[Code](https://github.com/minwoosun/biomedica-etl)]
   _Alejandro Lozano, Min Woo Sun, James Burgess, Liangyu Chen, Jeffrey J Nirschl, **Jeffrey Gu**, Ivan Lopez, Josiah Aklilu, Austin Wolfgang Katzer, Collin Chiu, Anita Rau, Xiaohan Wang, Yuhui Zhang, Alfred Seunghoon Song, Robert Tibshirani, Serena Yeung-Levy_
 
-- **Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models** (ICLR 2025)
+- **Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models** (ICLR 2025) [[Project page](https://its-gucci.github.io/hypfm/)]
   _**Jeffrey Gu**, Serena Yeung_
 
 - **Hyperbolic Deep Learning in Computer Vision: A Survey** (IJCV 2024) [[Paper](https://arxiv.org/pdf/2305.06611.pdf)][[Tutorial](https://sites.google.com/view/hyperbolic-tutorial-eccv22)][[Sample code](https://github.com/MinaGhadimiAtigh/hyperbolic_representation_learning)]
