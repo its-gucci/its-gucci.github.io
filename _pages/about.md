@@ -26,13 +26,13 @@ Publications and Preprints
 
 - **CryoHype: Transformer-based hypernetwork for heterogeneous Cryo-EM
 reconstruction** (In submission)
-  _**Jeffrey Gu**, Minkyu Jeon, Ambri Ma, Serena Yeung, Ellen D. Zhong_
+  _**Jeffrey Gu**, Minkyu Jeon, Ambri Ma, Serena Yeung-Levy, Ellen D. Zhong_
 
 - **BIOMEDICA: An Open Biomedical Image-Caption Archive with Vision-Language Models derived from Scientific Literature** (CVPR 2025) [[Huggingface](https://huggingface.co/papers/2501.07171)][[Paper](https://arxiv.org/pdf/2501.07171)][[Code](https://github.com/minwoosun/biomedica-etl)]
   _Alejandro Lozano, Min Woo Sun, James Burgess, Liangyu Chen, Jeffrey J Nirschl, **Jeffrey Gu**, Ivan Lopez, Josiah Aklilu, Austin Wolfgang Katzer, Collin Chiu, Anita Rau, Xiaohan Wang, Yuhui Zhang, Alfred Seunghoon Song, Robert Tibshirani, Serena Yeung-Levy_
 
-- **Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models** (ICLR 2025) [[Project page](https://its-gucci.github.io/hypfm/)]
-  _**Jeffrey Gu**, Serena Yeung_
+- **Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models** (ICLR 2025) [[Paper](https://arxiv.org/pdf/2503.00838)][[Project page](https://its-gucci.github.io/hypfm/)]
+  _**Jeffrey Gu**, Serena Yeung-Levy_
 
 - **Hyperbolic Deep Learning in Computer Vision: A Survey** (IJCV 2024) [[Paper](https://arxiv.org/pdf/2305.06611.pdf)][[Tutorial](https://sites.google.com/view/hyperbolic-tutorial-eccv22)][[Sample code](https://github.com/MinaGhadimiAtigh/hyperbolic_representation_learning)]
   _Pascal Mettes, Mina Ghadimi Atigh, Martin Keller-Ressler, **Jeffrey Gu**, Serena Yeung_
