@@ -27,7 +27,7 @@ Publications and Preprints
 - **Separating signal from noise: a self-distillation approach for amortized heterogeneous cryo-EM reconstruction** (In submission)
   _Minkyu Jeon*, **Jeffrey Gu***, Ambri Ma, Serena Yeung-Levy, Vincent Sitzmann, Ellen D. Zhong_
 
-  Short versions accepted to [MLSB 2025](mlsb.io) (Oral) and [MoML @ MIT 2025](https://www.moml.mit.edu/)
+  Short versions accepted to [MLSB 2025](mlsb.io) **(Oral)** and [MoML @ MIT 2025](https://www.moml.mit.edu/)
 
 - **CryoHype: Transformer-based hypernetwork for heterogeneous Cryo-EM
 reconstruction** (In submission)
@@ -47,17 +47,16 @@ reconstruction** (In submission)
 - **Generalizable Neural Fields as Partially Observed Neural Processes** (ICCV 2023) [[Project page](https://its-gucci.github.io/ponp/)][[Paper](https://arxiv.org/pdf/2309.06660.pdf)][[Code](https://github.com/its-gucci/partially-observed-neural-processes)]
   _**Jeffrey Gu**, Kuan-Chieh Wang, Serena Yeung_
 
-- **NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action** (CVPR 2023 Highlight) [[Project page](https://sites.google.com/view/nemo-neural-motion-field/home)][[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_NeMo_Learning_3D_Neural_Motion_Fields_From_Multiple_Video_Instances_CVPR_2023_paper.html)][[Code](https://github.com/wangkua1/nemo-cvpr2023)]
+- **NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action** **(CVPR 2023 Highlight)** [[Project page](https://sites.google.com/view/nemo-neural-motion-field/home)][[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_NeMo_Learning_3D_Neural_Motion_Fields_From_Multiple_Video_Instances_CVPR_2023_paper.html)][[Code](https://github.com/wangkua1/nemo-cvpr2023)]
   _Kuan-Chieh Wang, Zhenzhen Weng, Maria Xenochristou, Joao Pedro Araujo, **Jeffrey Gu**, C Karen Liu, Serena Yeung_
 
 - **Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations** (NeurIPS 2021) [[Paper](https://arxiv.org/abs/2012.01644)][[Code](https://github.com/its-gucci/capturing-implicit-hierarchical-structure)]
   _Joy Hsu*, **Jeffrey Gu***, Gong-Her Wu, Wah Chiu, Serena Yeung_
 
+  Short version appeared under the title **Learning Hyperbolic Representations for Unsupervised 3D Segmentation** at the NeurIPS Differential Geometry meets Deep Learning (DiffGeo4DL) Workshop 2020 **(Top paper/contributed talk)** [[Paper](https://drive.google.com/file/d/1tFQWg72zKmLCV0EOnIH9cqqp1F3OVa72/view)]
+
 - **Staying in Shape: Learning Invariant Shape Representations using Contrastive Learning** (UAI 2021) [[Paper](https://arxiv.org/abs/2107.03552)][[Code](https://github.com/its-gucci/staying-in-shape)]
   _**Jeffrey Gu**, Serena Yeung_
-
-- **Learning Hyperbolic Representations for Unsupervised 3D Segmentation** (NeurIPS Differential Geometry meets Deep Learning (DiffGeo4DL) Workshop 2020, Top paper/Contributed talk) [[Paper](https://drive.google.com/file/d/1tFQWg72zKmLCV0EOnIH9cqqp1F3OVa72/view)]   
-  _Joy Hsu*, **Jeffrey Gu***, Serena Yeung_
 
 Service
 =====
