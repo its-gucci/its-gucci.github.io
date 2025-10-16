@@ -12,7 +12,7 @@ I am now a postdoc at Princeton University, affiliated with the [EZ Lab](https:/
 
 News
 =====
--**Oct 2025**: CryoHype and CryoNOO have been accepted to MLSB and MoML, with CryoNOO being an oral at MLSB!
+- **Oct 2025**: CryoHype and CryoNOO have been accepted to MLSB and MoML, with CryoNOO being an oral at MLSB!
 - **Sep 2025**: I am now a postdoc at Princeton University!
 - **Feb 2025**: BIOMEDICA is accepted to CVPR 2025! Congrats to first authors Ale, Min Woo, and James!
 - **Jan 2025**: Our paper "Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models" is accepted to ICLR 2025! 
