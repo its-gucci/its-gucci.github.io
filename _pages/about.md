@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D student at [ICME](https://icme.stanford.edu/) at Stanford University where I am part of the [Medical AI and ComputeR Vision Lab (MARVL)](https://marvl.stanford.edu/index.html). I am fortunate to be advised by Prof. [Serena Yeung](https://ai.stanford.edu/~syyeung/). Previously, I received a BS in Mathematics from Caltech. I have a broad range of research interests, including 3D computer vision, implicit neural representations, multimodal large language models, geometric deep learning, and AI for science applications (such as structural biology/cryo-EM)! You can reach me at jeffgu[at]stanford.edu.
-
-I am currently on job market! I am looking for both industry opportunities and postdocs. Feel free to reach out!
+I am now a postdoc at Princeton University, affiliated with the [EZ Lab](https://ezlab.princeton.edu/). I am fortunate to work with [Prof. Ellen Zhong](https://www.cs.princeton.edu/~zhonge/). Previously, I did my PhD at Stanford University (ICME), advised by Serena Yeung-Levy, and my BS in mathematics at Caltech. I have a broad range of research interests, including 3D computer vision, neural fields, geometric deep learning, and AI for science applications. You can contact me at [first initial][last initial]1427[at]princeton.edu
 
 News
 =====
+-**Oct 2025**: CryoHype and CryoNOO have been accepted to MLSB and MoML, with CryoNOO being an oral at MLSB!
+- **Sep 2025**: I am now a postdoc at Princeton University!
 - **Feb 2025**: BIOMEDICA is accepted to CVPR 2025! Congrats to first authors Ale, Min Woo, and James!
 - **Jan 2025**: Our paper "Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models" is accepted to ICLR 2025! 
 - **Feb 2024**: Our survey "Hyperbolic Deep Learning in Computer Vision: A Survey" is accepted to IJCV 2024! Big thanks to my coauthors and Pascal for organizing!
@@ -24,9 +24,14 @@ News
 Publications and Preprints
 =====
 
+- **Separating signal from noise: a self-distillation approach for amortized heterogeneous cryo-EM reconstruction** (In submission)
+  _Minkyu Jeon*, **Jeffrey Gu***, Ambri Ma, Serena Yeung-Levy, Vincent Sitzmann, Ellen D. Zhong_
+  Short versions accepted to [MLSB 2025](mlsb.io) (Oral) and [MoML @ MIT 2025](https://www.moml.mit.edu/)
+
 - **CryoHype: Transformer-based hypernetwork for heterogeneous Cryo-EM
 reconstruction** (In submission)
-  _**Jeffrey Gu**, Minkyu Jeon, Ambri Ma, Serena Yeung-Levy, Ellen D. Zhong_
+  _**Jeffrey Gu***, Minkyu Jeon*, Ambri Ma, Serena Yeung-Levy, Ellen D. Zhong_
+  Short versions accepted to [MLSB 2025](mlsb.io) and [MoML @ MIT 2025](https://www.moml.mit.edu/)
 
 - **BIOMEDICA: An Open Biomedical Image-Caption Archive with Vision-Language Models derived from Scientific Literature** (CVPR 2025) [[Huggingface](https://huggingface.co/papers/2501.07171)][[Paper](https://arxiv.org/pdf/2501.07171)][[Code](https://github.com/minwoosun/biomedica-etl)]
   _Alejandro Lozano, Min Woo Sun, James Burgess, Liangyu Chen, Jeffrey J Nirschl, **Jeffrey Gu**, Ivan Lopez, Josiah Aklilu, Austin Wolfgang Katzer, Collin Chiu, Anita Rau, Xiaohan Wang, Yuhui Zhang, Alfred Seunghoon Song, Robert Tibshirani, Serena Yeung-Levy_
@@ -54,7 +59,7 @@ reconstruction** (In submission)
 
 Service
 =====
-- **Reviewer**: NeurIPS 2021 Datasets & Benchmarks, CVPR 2024-25, NeurIPS 2024 (Top Reviewer), AAAI 2025, ICLR 2025, AISTATS 2025, TMLR, ICML 2025
+- **Reviewer**: NeurIPS 2021 Datasets & Benchmarks, CVPR 2024-26, NeurIPS 2024 (Top Reviewer), 2025-26, AAAI 2025-26, ICLR 2025-26, AISTATS 2025-26, TMLR, ICML 2025, WACV 2026
 
 Teaching
 =====
