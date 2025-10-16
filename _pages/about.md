@@ -26,11 +26,13 @@ Publications and Preprints
 
 - **Separating signal from noise: a self-distillation approach for amortized heterogeneous cryo-EM reconstruction** (In submission)
   _Minkyu Jeon*, **Jeffrey Gu***, Ambri Ma, Serena Yeung-Levy, Vincent Sitzmann, Ellen D. Zhong_
+
   Short versions accepted to [MLSB 2025](mlsb.io) (Oral) and [MoML @ MIT 2025](https://www.moml.mit.edu/)
 
 - **CryoHype: Transformer-based hypernetwork for heterogeneous Cryo-EM
 reconstruction** (In submission)
   _**Jeffrey Gu***, Minkyu Jeon*, Ambri Ma, Serena Yeung-Levy, Ellen D. Zhong_
+
   Short versions accepted to [MLSB 2025](mlsb.io) and [MoML @ MIT 2025](https://www.moml.mit.edu/)
 
 - **BIOMEDICA: An Open Biomedical Image-Caption Archive with Vision-Language Models derived from Scientific Literature** (CVPR 2025) [[Huggingface](https://huggingface.co/papers/2501.07171)][[Paper](https://arxiv.org/pdf/2501.07171)][[Code](https://github.com/minwoosun/biomedica-etl)]
