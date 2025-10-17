@@ -60,7 +60,7 @@ reconstruction** (In submission)
 
 Service
 =====
-- **Reviewer**: NeurIPS 2021 Datasets & Benchmarks, CVPR 2024-26, NeurIPS 2024 (Top Reviewer), 2025-26, AAAI 2025-26, ICLR 2025-26, AISTATS 2025-26, TMLR, ICML 2025, WACV 2026
+- **Reviewer**: NeurIPS 2021 Datasets & Benchmarks, CVPR 2024-26, NeurIPS 2024-25 (Top Reviewer), AAAI 2025-26, ICLR 2025-26, AISTATS 2025-26, TMLR, ICML 2025, WACV 2026
 
 Teaching
 =====
