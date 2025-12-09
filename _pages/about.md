@@ -12,6 +12,7 @@ I am now a postdoc at Princeton University, affiliated with the [EZ Lab](https:/
 
 News
 =====
+- **Dec 2025**: Gave a contributed talk on CryoNOO with coauthor Minkyu at MLSB!
 - **Oct 2025**: CryoHype and CryoNOO have been accepted to MLSB and MoML, with CryoNOO being an oral at MLSB!
 - **Sep 2025**: I am now a postdoc at Princeton University!
 - **Feb 2025**: BIOMEDICA is accepted to CVPR 2025! Congrats to first authors Ale, Min Woo, and James!
@@ -27,10 +28,10 @@ Publications and Preprints
 - **Separating signal from noise: a self-distillation approach for amortized heterogeneous cryo-EM reconstruction** (In submission)
   _Minkyu Jeon*, **Jeffrey Gu***, Ambri Ma, Serena Yeung-Levy, Vincent Sitzmann, Ellen D. Zhong_
 
-  Short versions accepted to [MLSB 2025](mlsb.io) **(Oral)** and [MoML @ MIT 2025](https://www.moml.mit.edu/)
+  Short versions accepted to [MLSB 2025](mlsb.io) **(Contributed talk)** and [MoML @ MIT 2025](https://www.moml.mit.edu/)
 
 - **CryoHype: Transformer-based hypernetwork for heterogeneous Cryo-EM
-reconstruction** (In submission)
+reconstruction** (In submission) [[Paper](https://arxiv.org/abs/2512.06332)][[Code](https://github.com/ml-struct-bio/cryoHYPE)]
   _**Jeffrey Gu***, Minkyu Jeon*, Ambri Ma, Serena Yeung-Levy, Ellen D. Zhong_
 
   Short versions accepted to [MLSB 2025](mlsb.io) and [MoML @ MIT 2025](https://www.moml.mit.edu/)
