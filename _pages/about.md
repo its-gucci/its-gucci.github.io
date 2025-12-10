@@ -61,7 +61,7 @@ reconstruction** (In submission) [[Paper](https://arxiv.org/abs/2512.06332)][[Co
 
 Service
 =====
-- **Reviewer**: NeurIPS 2021 Datasets & Benchmarks, CVPR 2024-26, NeurIPS 2024-25 (Top Reviewer), AAAI 2025-26, ICLR 2025-26, AISTATS 2025-26, TMLR, ICML 2025, WACV 2026
+- **Reviewer**: NeurIPS 2021 Datasets & Benchmarks, CVPR 2024-26, NeurIPS Top Reviewer 2024-25, AAAI 2025-26, ICLR 2025-26, AISTATS 2025-26, TMLR, ICML 2025, WACV 2026
 
 Teaching
 =====
