@@ -24,8 +24,9 @@ News
 - **Feb 2022**: Gave a talk at the MedAI Group Exchange Sessions at Stanford! The website for MedAI can be found [here](https://stanford-medai.github.io/) and a video of the talk can be found at [this channel](https://www.youtube.com/@stanfordmedai) 
 
 Publications and Preprints
-\* denotes co-first authorship. For a full list of publications, please check my [Google Scholar](https://scholar.google.com/citations?user=a-jvKAQAAAAJ&hl=en)
 =====
+\* denotes co-first authorship. For a full list of publications, please check my [Google Scholar](https://scholar.google.com/citations?user=a-jvKAQAAAAJ&hl=en)
+
 
 - **Separating signal from noise: a self-distillation approach for amortized heterogeneous cryo-EM reconstruction** (In submission)
   _Minkyu Jeon*, **Jeffrey Gu***, Ambri Ma, Serena Yeung-Levy, Vincent Sitzmann, Ellen D. Zhong_
