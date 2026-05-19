@@ -34,7 +34,7 @@ Publications and Preprints
   Short versions accepted to [MLSB 2025](mlsb.io) **(Contributed talk)** and [MoML @ MIT 2025](https://www.moml.mit.edu/)
 
 - **CryoHype: Transformer-based hypernetwork for heterogeneous Cryo-EM
-reconstruction** (CVPR 2026) [[Paper](https://arxiv.org/abs/2512.06332)][[Code](https://github.com/ml-struct-bio/cryoHYPE)]
+reconstruction** (CVPR 2026) [[Project Page](https://cryohype.cs.princeton.edu/)[Paper](https://arxiv.org/abs/2512.06332)][[Code](https://github.com/ml-struct-bio/cryoHYPE)]
   _**Jeffrey Gu***, Minkyu Jeon*, Ambri Ma, Serena Yeung-Levy, Ellen D. Zhong_
 
   Short versions accepted to [MLSB 2025](mlsb.io) and [MoML @ MIT 2025](https://www.moml.mit.edu/)
