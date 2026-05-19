@@ -64,7 +64,7 @@ reconstruction** (CVPR 2026) [[Paper](https://arxiv.org/abs/2512.06332)][[Code](
 
 Service
 =====
-- **Reviewer**: NeurIPS 2021 Datasets & Benchmarks, CVPR 2024-26, NeurIPS Top Reviewer 2024-25, AAAI 2025-26, ICLR 2025-26, AISTATS 2025-26, TMLR, ICML 2025, WACV 2026
+- **Reviewer**: NeurIPS Top Reviewer 2024-25, NeurIPS Datasets & Benchmarks 2021, CVPR 2024-26 (Outstanding Reviewer 2026), ICLR 2025-26, ICML 2025-26, AISTATS 2025-26, TMLR, AAAI 2025-26, ICCV/ECCV 2025-2026, WACV 2026
 
 Teaching
 =====
